@@ -1,0 +1,17 @@
+runtime: nodejs
+env: flex
+service: prueba
+
+#automatic_scaling:
+#    min_num_instances: 1
+#    max_num_instances: 20
+#    cpu_utilization:
+#        target_utilization: 0.75
+#
+#threadsafe: false
+#resources:
+#    cpu: 2
+#    memory_gb: 3
+#health_check:
+#    enable_health_check: false
+
